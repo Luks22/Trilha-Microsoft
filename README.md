@@ -31,4 +31,29 @@ manualmente. O resultado mostra a previsão feita pelo pipeline de inferência.
 ### Resultado da previsão
 ![Previsão](https://github.com/Luks22/Trilha-Microsoft/blob/screenshots/Resultado_previsao.jpg)
 
+
+# Desafio 2: mostrar a previsão do cluster de um estudante com base nos dados de Renda Mensal, acesso a internet e nota final da redação informados.
+
+![Modelo de cluster]()
+
+ O desafio utiliza os dados do Enem 2019 como base para a realização da clusterização. Primeiramente selecionamos as colunas
+que iremos utilizar, NU_NOTA_REDACAO, referente as notas da redação do enem, Q006, referente as respostas de um formulario 
+para a renda mensal, e Q025, referente as respostas de acesso a internet. após a seleção das colunas, limpamos os dados ausentes de
+todas as colunas selecionadas e normalizamos as colunas numéricas.
+
+![Dados normalizados]()
+
+ Após isso separamos 70% dos dados brutos para treinamento e 30% para teste e treinamos um modelo de clusterização, para classificar os 
+dados em grupos de 3 e avaliamos sua classificação.
  
+![Avaliação do modelo]()
+
+ Criamos um pipeline de inferência para classificar um estudante baseado em sua nota da redeção do enem, sua resposta ao formulario
+da renda mensal e acesso a internet inserindo esses dados manualmente. O resultado mostra a qual grupo o estudante pertence.
+
+![Pipeline de inferencia do cluster]()
+
+![Dado do estudante]()
+
+![Resultado da clusterização]()
+
