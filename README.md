@@ -57,7 +57,7 @@ da renda mensal e acesso a internet inserindo esses dados manualmente. O resulta
 ![Pipeline de inferencia do cluster](https://github.com/Luks22/Trilha-Microsoft/blob/screenshots/Pipeline_inferencia_cluster.jpg)
 
 ### Dado do estudante inserido manualmente
-![Dado do estudante](https://github.com/Luks22/Trilha-Microsoft/blob/screenshots/Dado_manual_cluster.jpg)
+![Dado do estudante](https://github.com/Luks22/Trilha-Microsoft/blob/screenshots/Dados_manual_cluster.jpg)
 
 ### Resultado da clusterização
 ![Resultado da clusterização](https://github.com/Luks22/Trilha-Microsoft/blob/screenshots/Previsao_cluster.jpg)
