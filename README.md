@@ -17,7 +17,10 @@ uma previsão de dados numéricos, e avaliamos o modelo.
 ![Modelo de Avaliação](https://github.com/Luks22/Trilha-Microsoft/blob/screenshots/Modelo%20de%20Avaliacao.jpg)
 
 Criamos um pipeline de inferência para prever uma nota de ciências da natureza utilizando uma nota de matemática inserida 
-manualmente. O resultado mostra a previsão feita pelo modelo de inferência.
+manualmente. O resultado mostra a previsão feita pelo pipeline de inferência.
 
+![Pipeline de Inferência]()
+![Nota de matemática inserida manualmente]()
+![Previsão]()
 
  
