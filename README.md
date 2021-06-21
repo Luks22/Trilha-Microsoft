@@ -1,5 +1,5 @@
 # Trilha-Microsoft
-Respostas dos desafios propostos na trilha Microsoft utilizando o Azure
+Respostas dos 2 primeiros desafios propostos na trilha Microsoft utilizando o Azure
 
 ## Desafio 1: Prever a nota de Ciências da Natureza utilizando a nota de Matemática.
 
